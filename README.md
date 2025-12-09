@@ -1,7 +1,3 @@
-Below is a clean and well-structured **English README** for your Finance App project based on the provided requirement specification.
-
----
-
 # **Finance App – Angular Frontend**
 
 A practice project developed within **Module 323** at the **Berufs- und Weiterbildungszentrum Rapperswil-Jona**.
