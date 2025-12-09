@@ -1,3 +1,6 @@
+# ignores .env files, but not .env.example
+**/.env
+
 # Logs
 logs
 *.log
